@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+
+# 模型权重(530M+, 不进 git; 评测文本/曲线/热力图等保留)
+*.pth
+
+# 系统
+.DS_Store

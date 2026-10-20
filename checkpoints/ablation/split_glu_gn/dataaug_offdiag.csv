@@ -1,0 +1,7 @@
+combo,last_added,n_off,off_mean,off_min_breed,off_min_acc,all26_mean
+1,Border Collie,25,0.6982521999999999,Beauceron,0.593339,0.706409
+2,Spanish Water Dog,24,0.7195896666666668,Beauceron,0.5982,0.73434
+3,Crossbreed,23,0.7491349999999999,Nova Scotia Duck Tolling Retriever,0.601395,0.768255
+4,Lapponian Herder,22,0.7657386818181817,Nova Scotia Duck Tolling Retriever,0.63742,0.789972
+5,Bouvier des Ardennes,21,0.7624022857142857,Nova Scotia Duck Tolling Retriever,0.622313,0.791895
+6,Golden Retriever,20,0.77560835,Nova Scotia Duck Tolling Retriever,0.660662,0.809719

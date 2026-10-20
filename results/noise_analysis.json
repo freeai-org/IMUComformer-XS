@@ -1,0 +1,45 @@
+{
+  "ANeck_x": {
+    "sigma_noise_diff": 0.013122,
+    "sigma_noise_psd": 0.003729,
+    "sigma_signal": 0.654497,
+    "snr_db": 33.96
+  },
+  "ANeck_y": {
+    "sigma_noise_diff": 0.017373,
+    "sigma_noise_psd": 0.006685,
+    "sigma_signal": 0.687215,
+    "snr_db": 31.94
+  },
+  "ANeck_z": {
+    "sigma_noise_diff": 0.018488,
+    "sigma_noise_psd": 0.006985,
+    "sigma_signal": 0.709583,
+    "snr_db": 31.68
+  },
+  "GNeck_x": {
+    "sigma_noise_diff": 2.530926,
+    "sigma_noise_psd": 0.575336,
+    "sigma_signal": 75.948969,
+    "snr_db": 29.54
+  },
+  "GNeck_y": {
+    "sigma_noise_diff": 2.847249,
+    "sigma_noise_psd": 0.557855,
+    "sigma_signal": 131.297472,
+    "snr_db": 33.28
+  },
+  "GNeck_z": {
+    "sigma_noise_diff": 1.684956,
+    "sigma_noise_psd": 0.238695,
+    "sigma_signal": 70.002777,
+    "snr_db": 32.37
+  },
+  "_meta": {
+    "static_behavior": "Lying",
+    "n_runsa'c": 307,
+    "static_minutes": 184.1,
+    "longest_run_min": 3.3,
+    "f_cut_hz": 27.1
+  }
+}

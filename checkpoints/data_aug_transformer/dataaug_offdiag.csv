@@ -1,0 +1,26 @@
+combo,last_added,n_off,off_mean,off_min_breed,off_min_acc,all26_mean
+1,Border Collie,25,0.69488624,Beauceron,0.571917,0.702828
+2,Spanish Water Dog,24,0.7223701666666668,Beauceron,0.632583,0.73683
+3,Crossbreed,23,0.7314147391304348,Nova Scotia Duck Tolling Retriever,0.49448,0.751603
+4,Lapponian Herder,22,0.7528087727272726,Nova Scotia Duck Tolling Retriever,0.589773,0.778372
+5,Bouvier des Ardennes,21,0.7464091428571429,Nova Scotia Duck Tolling Retriever,0.630447,0.778842
+6,Golden Retriever,20,0.73976405,Nova Scotia Duck Tolling Retriever,0.518303,0.779246
+7,English Springer Spaniel,19,0.7316005789473684,Nova Scotia Duck Tolling Retriever,0.571761,0.781081
+8,Vizsla,18,0.7273187222222223,Belgian Shepherd Groenendael,0.6175,0.786564
+9,German Shepherd,17,0.7412424117647058,Nova Scotia Duck Tolling Retriever,0.625799,0.800742
+10,Labrador Retriever,16,0.735434625,Nova Scotia Duck Tolling Retriever,0.61011,0.802794
+11,Australian Kelpie,15,0.7341431333333334,Belgian Shepherd Groenendael,0.6625,0.808618
+12,Mudi,14,0.7505637857142856,Belgian Shepherd Groenendael,0.7025,0.826696
+13,Dutch Shepherd,13,0.7457059230769233,Nova Scotia Duck Tolling Retriever,0.666473,0.832501
+14,Flat-Coated Retriever,12,0.7446519166666667,Belgian Shepherd Malinois,0.694073,0.835497
+15,Finnish Lapphund,11,0.7390740000000001,Nova Scotia Duck Tolling Retriever,0.669959,0.836937
+16,Belgian Shepherd Malinois,10,0.7484960999999999,Bull Terrier (Miniature),0.683185,0.846352
+17,Lagotto Romagnolo,9,0.7451402222222223,Nova Scotia Duck Tolling Retriever,0.665892,0.853597
+18,Smooth Collie,8,0.744890875,Bull Terrier (Miniature),0.702394,0.862357
+19,Beauceron,7,0.7622088571428572,Bull Terrier (Miniature),0.718541,0.873645
+20,Hovawart,6,0.7529646666666667,Standard Poodle,0.72914,0.878967
+21,Bouvier,5,0.7290906,Nova Scotia Duck Tolling Retriever,0.677513,0.880349
+22,Belgian Shepherd Groenendael,4,0.7731794999999999,Bull Terrier (Miniature),0.711303,0.902101
+23,Standard Poodle,3,0.7461606666666666,Bull Terrier (Miniature),0.689031,0.893909
+24,Bull Terrier (Miniature),2,0.7927695,Nova Scotia Duck Tolling Retriever,0.751888,0.90984
+25,Nova Scotia Duck Tolling Retriever,1,0.890794,Belgian Shepherd,0.890794,0.916815
